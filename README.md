@@ -113,3 +113,4 @@ Root `Dockerfile` and `docker-compose.yml` included.
 On the login page, use **One-Click Demo Roles** buttons for instant access.
 Default form password in UI is also accepted for demo accounts.
 "# team-crm-project" 
+"# team-repository-project-1" 
