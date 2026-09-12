@@ -1,0 +1,1 @@
+Feature PR #48 [vitest-auth]: add automated unit and integration tests for auth subsystem

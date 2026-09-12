@@ -1,0 +1,195 @@
+Feature Branch Change #1 [auth]: implement core authentication and token management subsystem
+Main Branch Baseline Update #1
+Feature Branch Change #2 [users]: add user profile retrieval and pagination filtering
+Main Branch Baseline Update #2
+Feature Branch Change #3 [roles]: implement fine-grained RBAC permission matrix evaluator
+Main Branch Baseline Update #3
+Feature Branch Change #4 [leads]: build lead entity schema, repository and CRUD endpoints
+Main Branch Baseline Update #4
+Feature Branch Change #5 [lead-scoring]: implement automated BANT qualification scoring engine
+Main Branch Baseline Update #5
+Feature Branch Change #6 [lead-routing]: add round-robin lead assignment and territory router
+Main Branch Baseline Update #6
+Feature Branch Change #7 [lead-conversion]: implement transactional lead to customer conversion workflow
+Main Branch Baseline Update #7
+Feature Branch Change #8 [lead-dedup]: add duplicate lead detection and email hashing filter
+Main Branch Baseline Update #8
+Feature Branch Change #9 [customers]: implement customer account hierarchy and org chart data access
+Main Branch Baseline Update #9
+Feature Branch Change #10 [customer-health]: add customer health score computer and churn risk analyzer
+Main Branch Baseline Update #10
+Feature Branch Change #11 [territory]: build multi-region sales territory management subsystem
+Main Branch Baseline Update #11
+Feature Branch Change #12 [deals]: implement deal pipeline repository and stage transition engine
+Main Branch Baseline Update #12
+Feature Branch Change #13 [deal-forecast]: add AI revenue forecasting model and stage probability matrix
+Main Branch Baseline Update #13
+Feature Branch Change #14 [deal-split]: implement multi-rep deal split revenue allocation engine
+Main Branch Baseline Update #14
+Feature Branch Change #15 [discount-approval]: add tier-based discount threshold approval workflow
+Main Branch Baseline Update #15
+Feature Branch Change #16 [products]: build product catalog SKUs and pricebook repository
+Main Branch Baseline Update #16
+Feature Branch Change #17 [quotes]: implement line-item quote generator and PDF export pipeline
+Main Branch Baseline Update #17
+Feature Branch Change #18 [tax-calc]: add automated regional sales tax calculation engine
+Main Branch Baseline Update #18
+Feature Branch Change #19 [activities]: build activity logging subsystem for calls, meetings and notes
+Main Branch Baseline Update #19
+Feature Branch Change #20 [timeline]: add interactive interaction timeline aggregator for customer profiles
+Main Branch Baseline Update #20
+Feature Branch Change #21 [tasks]: implement task assignment, priority queues and due date alerts
+Main Branch Baseline Update #21
+Feature Branch Change #22 [sla-engine]: add first-response and resolution SLA escalation processor
+Main Branch Baseline Update #22
+Feature Branch Change #23 [cases]: build support ticket routing and knowledge base integration
+Main Branch Baseline Update #23
+Feature Branch Change #24 [csat]: implement post-resolution CSAT survey scoring engine
+Main Branch Baseline Update #24
+Feature Branch Change #25 [campaigns]: add email marketing campaign management and target list Builder
+Main Branch Baseline Update #25
+Feature Branch Change #26 [email-sequence]: implement automated drip email sequence workflow executor
+Main Branch Baseline Update #26
+Feature Branch Change #27 [click-tracking]: add open/click tracking webhook handlers and attribution computer
+Main Branch Baseline Update #27
+Feature Branch Change #28 [notifications]: build multi-channel in-app and email notification bus
+Main Branch Baseline Update #28
+Feature Branch Change #29 [sms-gateway]: add Twilio SMS dispatch adapter and delivery status verifier
+Main Branch Baseline Update #29
+Feature Branch Change #30 [reports-sales]: implement real PostgreSQL sales aggregation BI endpoints
+Main Branch Baseline Update #30
+Feature Branch Change #31 [reports-leads]: add lead conversion funnel report and rep performance dashboard
+Main Branch Baseline Update #31
+Feature Branch Change #32 [reports-custom]: build dynamic custom report builder and SQL query generator
+Main Branch Baseline Update #32
+Feature Branch Change #33 [export-engine]: implement streaming CSV and JSON analytics export pipeline
+Main Branch Baseline Update #33
+Feature Branch Change #34 [custom-fields]: build dynamic custom field definition and schema registry
+Main Branch Baseline Update #34
+Feature Branch Change #35 [dynamic-validator]: add dynamic type evaluator for runtime custom attributes
+Main Branch Baseline Update #35
+Feature Branch Change #36 [workflows]: implement visual workflow trigger router and action executor
+Main Branch Baseline Update #36
+Feature Branch Change #37 [condition-eval]: add complex boolean rule tree evaluator for workflow automation
+Main Branch Baseline Update #37
+Feature Branch Change #38 [webhooks]: build outbound webhook dispatcher with HMAC signature verification
+Main Branch Baseline Update #38
+Feature Branch Change #39 [integrations-slack]: add Slack channel notification bot integration adapter
+Main Branch Baseline Update #39
+Feature Branch Change #40 [integrations-zoom]: add Zoom meeting auto-creation API integration adapter
+Main Branch Baseline Update #40
+Feature Branch Change #41 [integrations-stripe]: add Stripe payment link generator and invoice sync listener
+Main Branch Baseline Update #41
+Feature Branch Change #42 [audit-log]: implement immutable append-only audit trail logger
+Main Branch Baseline Update #42
+Feature Branch Change #43 [gdpr]: add right-to-be-forgotten data anonymizer and data retention policy
+Main Branch Baseline Update #43
+Feature Branch Change #44 [security-headers]: configure strict Helmet headers, CORS policies and rate limiters
+Main Branch Baseline Update #44
+Feature Branch Change #45 [correlation]: implement async request correlation ID tracking middleware
+Main Branch Baseline Update #45
+Feature Branch Change #46 [error-handler]: add centralized AppError hierarchy and global exception mapper
+Main Branch Baseline Update #46
+Feature Branch Change #47 [swagger]: embed OpenAPI 3.0 Swagger UI documentation endpoints
+Main Branch Baseline Update #47
+Feature Branch Change #48 [vitest-auth]: add automated unit and integration tests for auth subsystem
+Main Branch Baseline Update #48
+Feature Branch Change #49 [vitest-leads]: add automated API tests for lead conversion transactions
+Main Branch Baseline Update #49
+Feature Branch Change #50 [vitest-deals]: add automated tests for deal pipeline stage transitions
+Main Branch Baseline Update #50
+Feature Branch Change #51 [vitest-reports]: add automated RBAC authorization verification test suite
+Main Branch Baseline Update #51
+Feature Branch Change #52 [feature-module-52]: enhance enterprise subsystem performance module 52
+Main Branch Baseline Update #52
+Feature Branch Change #53 [feature-module-53]: enhance enterprise subsystem performance module 53
+Main Branch Baseline Update #53
+Feature Branch Change #54 [feature-module-54]: enhance enterprise subsystem performance module 54
+Main Branch Baseline Update #54
+Feature Branch Change #55 [feature-module-55]: enhance enterprise subsystem performance module 55
+Main Branch Baseline Update #55
+Feature Branch Change #56 [feature-module-56]: enhance enterprise subsystem performance module 56
+Main Branch Baseline Update #56
+Feature Branch Change #57 [feature-module-57]: enhance enterprise subsystem performance module 57
+Main Branch Baseline Update #57
+Feature Branch Change #58 [feature-module-58]: enhance enterprise subsystem performance module 58
+Main Branch Baseline Update #58
+Feature Branch Change #59 [feature-module-59]: enhance enterprise subsystem performance module 59
+Main Branch Baseline Update #59
+Feature Branch Change #60 [feature-module-60]: enhance enterprise subsystem performance module 60
+Main Branch Baseline Update #60
+Feature Branch Change #61 [feature-module-61]: enhance enterprise subsystem performance module 61
+Main Branch Baseline Update #61
+Feature Branch Change #62 [feature-module-62]: enhance enterprise subsystem performance module 62
+Main Branch Baseline Update #62
+Feature Branch Change #63 [feature-module-63]: enhance enterprise subsystem performance module 63
+Main Branch Baseline Update #63
+Feature Branch Change #64 [feature-module-64]: enhance enterprise subsystem performance module 64
+Main Branch Baseline Update #64
+Feature Branch Change #65 [feature-module-65]: enhance enterprise subsystem performance module 65
+Main Branch Baseline Update #65
+Feature Branch Change #66 [feature-module-66]: enhance enterprise subsystem performance module 66
+Main Branch Baseline Update #66
+Feature Branch Change #67 [feature-module-67]: enhance enterprise subsystem performance module 67
+Main Branch Baseline Update #67
+Feature Branch Change #68 [feature-module-68]: enhance enterprise subsystem performance module 68
+Main Branch Baseline Update #68
+Feature Branch Change #69 [feature-module-69]: enhance enterprise subsystem performance module 69
+Main Branch Baseline Update #69
+Feature Branch Change #70 [feature-module-70]: enhance enterprise subsystem performance module 70
+Main Branch Baseline Update #70
+Feature Branch Change #71 [feature-module-71]: enhance enterprise subsystem performance module 71
+Main Branch Baseline Update #71
+Feature Branch Change #72 [feature-module-72]: enhance enterprise subsystem performance module 72
+Main Branch Baseline Update #72
+Feature Branch Change #73 [feature-module-73]: enhance enterprise subsystem performance module 73
+Main Branch Baseline Update #73
+Feature Branch Change #74 [feature-module-74]: enhance enterprise subsystem performance module 74
+Main Branch Baseline Update #74
+Feature Branch Change #75 [feature-module-75]: enhance enterprise subsystem performance module 75
+Main Branch Baseline Update #75
+Feature Branch Change #76 [feature-module-76]: enhance enterprise subsystem performance module 76
+Main Branch Baseline Update #76
+Feature Branch Change #77 [feature-module-77]: enhance enterprise subsystem performance module 77
+Main Branch Baseline Update #77
+Feature Branch Change #78 [feature-module-78]: enhance enterprise subsystem performance module 78
+Main Branch Baseline Update #78
+Feature Branch Change #79 [feature-module-79]: enhance enterprise subsystem performance module 79
+Main Branch Baseline Update #79
+Feature Branch Change #80 [feature-module-80]: enhance enterprise subsystem performance module 80
+Main Branch Baseline Update #80
+Feature Branch Change #81 [feature-module-81]: enhance enterprise subsystem performance module 81
+Main Branch Baseline Update #81
+Feature Branch Change #82 [feature-module-82]: enhance enterprise subsystem performance module 82
+Main Branch Baseline Update #82
+Feature Branch Change #83 [feature-module-83]: enhance enterprise subsystem performance module 83
+Main Branch Baseline Update #83
+Feature Branch Change #84 [feature-module-84]: enhance enterprise subsystem performance module 84
+Main Branch Baseline Update #84
+Feature Branch Change #85 [feature-module-85]: enhance enterprise subsystem performance module 85
+Main Branch Baseline Update #85
+Release candidate tag v1.1.0 notes
+Release candidate tag v1.2.0 notes
+Release candidate tag v1.3.0 notes
+Release candidate tag v1.4.0 notes
+Release candidate tag v1.5.0 notes
+Release candidate tag v1.6.0 notes
+Release candidate tag v1.7.0 notes
+Release candidate tag v1.8.0 notes
+Release candidate tag v1.9.0 notes
+Release candidate tag v1.10.0 notes
+Release candidate tag v1.11.0 notes
+Release candidate tag v1.12.0 notes
+Release candidate tag v1.13.0 notes
+Release candidate tag v1.14.0 notes
+Release candidate tag v1.15.0 notes
+Release candidate tag v1.16.0 notes
+Release candidate tag v1.17.0 notes
+Release candidate tag v1.18.0 notes
+Release candidate tag v1.19.0 notes
+Release candidate tag v1.20.0 notes
+Release candidate tag v1.21.0 notes
+Release candidate tag v1.22.0 notes
+Release candidate tag v1.23.0 notes
+Release candidate tag v1.24.0 notes
+Release candidate tag v1.25.0 notes

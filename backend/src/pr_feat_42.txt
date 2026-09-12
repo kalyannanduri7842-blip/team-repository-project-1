@@ -1,0 +1,1 @@
+Feature PR #42 [audit-log]: implement immutable append-only audit trail logger

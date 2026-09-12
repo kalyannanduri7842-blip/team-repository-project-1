@@ -1,0 +1,1 @@
+Feature PR #39 [integrations-slack]: add Slack channel notification bot integration adapter

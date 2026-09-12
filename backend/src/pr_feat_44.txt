@@ -1,0 +1,1 @@
+Feature PR #44 [security-headers]: configure strict Helmet headers, CORS policies and rate limiters

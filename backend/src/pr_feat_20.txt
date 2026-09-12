@@ -1,0 +1,1 @@
+Feature PR #20 [timeline]: add interactive interaction timeline aggregator for customer profiles

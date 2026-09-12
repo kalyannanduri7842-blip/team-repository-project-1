@@ -1,0 +1,1 @@
+Feature PR #47 [swagger]: embed OpenAPI 3.0 Swagger UI documentation endpoints

@@ -1,0 +1,1 @@
+Feature PR #38 [webhooks]: build outbound webhook dispatcher with HMAC signature verification

@@ -1,0 +1,1 @@
+Feature PR #51 [vitest-reports]: add automated RBAC authorization verification test suite

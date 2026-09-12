@@ -1,0 +1,211 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+PR 1 feature/activities
+=======
+PR 2 feature/audit-log
+>>>>>>> feature/audit-log
+PR 3 feature/auth
+=======
+PR 4 feature/campaigns
+>>>>>>> feature/campaigns
+PR 5 feature/cases
+=======
+PR 6 feature/click-tracking
+>>>>>>> feature/click-tracking
+PR 7 feature/condition-eval
+=======
+PR 8 feature/correlation
+>>>>>>> feature/correlation
+PR 9 feature/csat
+=======
+PR 10 feature/custom-fields
+>>>>>>> feature/custom-fields
+PR 11 feature/customer-health
+=======
+PR 12 feature/customers
+>>>>>>> feature/customers
+PR 13 feature/deal-forecast
+=======
+PR 14 feature/deal-split
+>>>>>>> feature/deal-split
+PR 15 feature/deals
+=======
+PR 16 feature/discount-approval
+>>>>>>> feature/discount-approval
+PR 17 feature/dynamic-validator
+=======
+PR 18 feature/email-sequence
+>>>>>>> feature/email-sequence
+PR 19 feature/error-handler
+=======
+PR 20 feature/export-engine
+>>>>>>> feature/export-engine
+PR 21 feature/feature-module-52
+=======
+PR 22 feature/feature-module-53
+>>>>>>> feature/feature-module-53
+PR 23 feature/feature-module-54
+=======
+PR 24 feature/feature-module-55
+>>>>>>> feature/feature-module-55
+PR 25 feature/feature-module-56
+=======
+PR 26 feature/feature-module-57
+>>>>>>> feature/feature-module-57
+PR 27 feature/feature-module-58
+=======
+PR 28 feature/feature-module-59
+>>>>>>> feature/feature-module-59
+PR 29 feature/feature-module-60
+=======
+PR 30 feature/feature-module-61
+>>>>>>> feature/feature-module-61
+PR 31 feature/feature-module-62
+=======
+PR 32 feature/feature-module-63
+>>>>>>> feature/feature-module-63
+PR 33 feature/feature-module-64
+=======
+PR 34 feature/feature-module-65
+>>>>>>> feature/feature-module-65
+PR 35 feature/feature-module-66
+=======
+PR 36 feature/feature-module-67
+>>>>>>> feature/feature-module-67
+PR 37 feature/feature-module-68
+=======
+PR 38 feature/feature-module-69
+>>>>>>> feature/feature-module-69
+PR 39 feature/feature-module-70
+=======
+PR 40 feature/feature-module-71
+>>>>>>> feature/feature-module-71
+PR 41 feature/feature-module-72
+=======
+PR 42 feature/feature-module-73
+>>>>>>> feature/feature-module-73
+PR 43 feature/feature-module-74
+=======
+PR 44 feature/feature-module-75
+>>>>>>> feature/feature-module-75
+PR 45 feature/feature-module-76
+=======
+PR 46 feature/feature-module-77
+>>>>>>> feature/feature-module-77
+PR 47 feature/feature-module-78
+=======
+PR 48 feature/feature-module-79
+>>>>>>> feature/feature-module-79
+PR 49 feature/feature-module-80
+=======
+PR 50 feature/feature-module-81
+>>>>>>> feature/feature-module-81
+PR 51 feature/feature-module-82
+=======
+PR 52 feature/feature-module-83
+>>>>>>> feature/feature-module-83
+PR 53 feature/feature-module-84
+=======
+PR 54 feature/feature-module-85
+>>>>>>> feature/feature-module-85
+PR 55 feature/gdpr
+=======
+PR 56 feature/integrations-slack
+>>>>>>> feature/integrations-slack
+PR 57 feature/integrations-stripe
+=======
+PR 58 feature/integrations-zoom
+>>>>>>> feature/integrations-zoom
+PR 59 feature/lead-conversion
+=======
+PR 60 feature/lead-dedup
+>>>>>>> feature/lead-dedup
+PR 61 feature/lead-routing
+=======
+PR 62 feature/lead-scoring
+>>>>>>> feature/lead-scoring
+PR 63 feature/leads
+=======
+PR 64 feature/notifications
+>>>>>>> feature/notifications
+PR 65 feature/products
+=======
+PR 66 feature/quotes
+>>>>>>> feature/quotes
+PR 67 feature/reports-custom
+=======
+PR 68 feature/reports-leads
+>>>>>>> feature/reports-leads
+PR 69 feature/reports-sales
+=======
+PR 70 feature/roles
+>>>>>>> feature/roles
+PR 71 feature/security-headers
+=======
+PR 72 feature/sla-engine
+>>>>>>> feature/sla-engine
+PR 73 feature/sms-gateway
+=======
+PR 74 feature/swagger
+>>>>>>> feature/swagger
+PR 75 feature/tasks
+=======
+PR 76 feature/tax-calc
+>>>>>>> feature/tax-calc
+PR 77 feature/territory
+=======
+PR 78 feature/timeline
+>>>>>>> feature/timeline
+PR 79 feature/users
+=======
+PR 80 feature/vitest-auth
+>>>>>>> feature/vitest-auth
+PR 81 feature/vitest-deals
+=======
+PR 82 feature/vitest-leads
+>>>>>>> feature/vitest-leads
+PR 83 feature/vitest-reports
+=======
+PR 84 feature/webhooks
+>>>>>>> feature/webhooks
+PR 85 feature/workflows

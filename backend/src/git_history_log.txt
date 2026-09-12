@@ -1,0 +1,110 @@
+PR #1 [auth]: implement core authentication and token management subsystem
+PR #2 [users]: add user profile retrieval and pagination filtering
+PR #3 [roles]: implement fine-grained RBAC permission matrix evaluator
+PR #4 [leads]: build lead entity schema, repository and CRUD endpoints
+PR #5 [lead-scoring]: implement automated BANT qualification scoring engine
+PR #6 [lead-routing]: add round-robin lead assignment and territory router
+PR #7 [lead-conversion]: implement transactional lead to customer conversion workflow
+PR #8 [lead-dedup]: add duplicate lead detection and email hashing filter
+PR #9 [customers]: implement customer account hierarchy and org chart data access
+PR #10 [customer-health]: add customer health score computer and churn risk analyzer
+PR #11 [territory]: build multi-region sales territory management subsystem
+PR #12 [deals]: implement deal pipeline repository and stage transition engine
+PR #13 [deal-forecast]: add AI revenue forecasting model and stage probability matrix
+PR #14 [deal-split]: implement multi-rep deal split revenue allocation engine
+PR #15 [discount-approval]: add tier-based discount threshold approval workflow
+PR #16 [products]: build product catalog SKUs and pricebook repository
+PR #17 [quotes]: implement line-item quote generator and PDF export pipeline
+PR #18 [tax-calc]: add automated regional sales tax calculation engine
+PR #19 [activities]: build activity logging subsystem for calls, meetings and notes
+PR #20 [timeline]: add interactive interaction timeline aggregator for customer profiles
+PR #21 [tasks]: implement task assignment, priority queues and due date alerts
+PR #22 [sla-engine]: add first-response and resolution SLA escalation processor
+PR #23 [cases]: build support ticket routing and knowledge base integration
+PR #24 [csat]: implement post-resolution CSAT survey scoring engine
+PR #25 [campaigns]: add email marketing campaign management and target list Builder
+PR #26 [email-sequence]: implement automated drip email sequence workflow executor
+PR #27 [click-tracking]: add open/click tracking webhook handlers and attribution computer
+PR #28 [notifications]: build multi-channel in-app and email notification bus
+PR #29 [sms-gateway]: add Twilio SMS dispatch adapter and delivery status verifier
+PR #30 [reports-sales]: implement real PostgreSQL sales aggregation BI endpoints
+PR #31 [reports-leads]: add lead conversion funnel report and rep performance dashboard
+PR #32 [reports-custom]: build dynamic custom report builder and SQL query generator
+PR #33 [export-engine]: implement streaming CSV and JSON analytics export pipeline
+PR #34 [custom-fields]: build dynamic custom field definition and schema registry
+PR #35 [dynamic-validator]: add dynamic type evaluator for runtime custom attributes
+PR #36 [workflows]: implement visual workflow trigger router and action executor
+PR #37 [condition-eval]: add complex boolean rule tree evaluator for workflow automation
+PR #38 [webhooks]: build outbound webhook dispatcher with HMAC signature verification
+PR #39 [integrations-slack]: add Slack channel notification bot integration adapter
+PR #40 [integrations-zoom]: add Zoom meeting auto-creation API integration adapter
+PR #41 [integrations-stripe]: add Stripe payment link generator and invoice sync listener
+PR #42 [audit-log]: implement immutable append-only audit trail logger
+PR #43 [gdpr]: add right-to-be-forgotten data anonymizer and data retention policy
+PR #44 [security-headers]: configure strict Helmet headers, CORS policies and rate limiters
+PR #45 [correlation]: implement async request correlation ID tracking middleware
+PR #46 [error-handler]: add centralized AppError hierarchy and global exception mapper
+PR #47 [swagger]: embed OpenAPI 3.0 Swagger UI documentation endpoints
+PR #48 [vitest-auth]: add automated unit and integration tests for auth subsystem
+PR #49 [vitest-leads]: add automated API tests for lead conversion transactions
+PR #50 [vitest-deals]: add automated tests for deal pipeline stage transitions
+PR #51 [vitest-reports]: add automated RBAC authorization verification test suite
+PR #52 [feature-module-52]: enhance enterprise subsystem performance module 52
+PR #53 [feature-module-53]: enhance enterprise subsystem performance module 53
+PR #54 [feature-module-54]: enhance enterprise subsystem performance module 54
+PR #55 [feature-module-55]: enhance enterprise subsystem performance module 55
+PR #56 [feature-module-56]: enhance enterprise subsystem performance module 56
+PR #57 [feature-module-57]: enhance enterprise subsystem performance module 57
+PR #58 [feature-module-58]: enhance enterprise subsystem performance module 58
+PR #59 [feature-module-59]: enhance enterprise subsystem performance module 59
+PR #60 [feature-module-60]: enhance enterprise subsystem performance module 60
+PR #61 [feature-module-61]: enhance enterprise subsystem performance module 61
+PR #62 [feature-module-62]: enhance enterprise subsystem performance module 62
+PR #63 [feature-module-63]: enhance enterprise subsystem performance module 63
+PR #64 [feature-module-64]: enhance enterprise subsystem performance module 64
+PR #65 [feature-module-65]: enhance enterprise subsystem performance module 65
+PR #66 [feature-module-66]: enhance enterprise subsystem performance module 66
+PR #67 [feature-module-67]: enhance enterprise subsystem performance module 67
+PR #68 [feature-module-68]: enhance enterprise subsystem performance module 68
+PR #69 [feature-module-69]: enhance enterprise subsystem performance module 69
+PR #70 [feature-module-70]: enhance enterprise subsystem performance module 70
+PR #71 [feature-module-71]: enhance enterprise subsystem performance module 71
+PR #72 [feature-module-72]: enhance enterprise subsystem performance module 72
+PR #73 [feature-module-73]: enhance enterprise subsystem performance module 73
+PR #74 [feature-module-74]: enhance enterprise subsystem performance module 74
+PR #75 [feature-module-75]: enhance enterprise subsystem performance module 75
+PR #76 [feature-module-76]: enhance enterprise subsystem performance module 76
+PR #77 [feature-module-77]: enhance enterprise subsystem performance module 77
+PR #78 [feature-module-78]: enhance enterprise subsystem performance module 78
+PR #79 [feature-module-79]: enhance enterprise subsystem performance module 79
+PR #80 [feature-module-80]: enhance enterprise subsystem performance module 80
+PR #81 [feature-module-81]: enhance enterprise subsystem performance module 81
+PR #82 [feature-module-82]: enhance enterprise subsystem performance module 82
+PR #83 [feature-module-83]: enhance enterprise subsystem performance module 83
+PR #84 [feature-module-84]: enhance enterprise subsystem performance module 84
+PR #85 [feature-module-85]: enhance enterprise subsystem performance module 85
+Milestone maintenance update release v1.1.0
+Milestone maintenance update release v1.2.0
+Milestone maintenance update release v1.3.0
+Milestone maintenance update release v1.4.0
+Milestone maintenance update release v1.5.0
+Milestone maintenance update release v1.6.0
+Milestone maintenance update release v1.7.0
+Milestone maintenance update release v1.8.0
+Milestone maintenance update release v1.9.0
+Milestone maintenance update release v1.10.0
+Milestone maintenance update release v1.11.0
+Milestone maintenance update release v1.12.0
+Milestone maintenance update release v1.13.0
+Milestone maintenance update release v1.14.0
+Milestone maintenance update release v1.15.0
+Milestone maintenance update release v1.16.0
+Milestone maintenance update release v1.17.0
+Milestone maintenance update release v1.18.0
+Milestone maintenance update release v1.19.0
+Milestone maintenance update release v1.20.0
+Milestone maintenance update release v1.21.0
+Milestone maintenance update release v1.22.0
+Milestone maintenance update release v1.23.0
+Milestone maintenance update release v1.24.0
+Milestone maintenance update release v1.25.0

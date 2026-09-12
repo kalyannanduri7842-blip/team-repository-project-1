@@ -1,0 +1,1 @@
+Feature PR #41 [integrations-stripe]: add Stripe payment link generator and invoice sync listener

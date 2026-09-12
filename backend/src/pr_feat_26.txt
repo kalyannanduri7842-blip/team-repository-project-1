@@ -1,0 +1,1 @@
+Feature PR #26 [email-sequence]: implement automated drip email sequence workflow executor

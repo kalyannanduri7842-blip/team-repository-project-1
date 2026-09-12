@@ -1,0 +1,1 @@
+Feature PR #50 [vitest-deals]: add automated tests for deal pipeline stage transitions

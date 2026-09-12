@@ -1,0 +1,1 @@
+Feature PR #46 [error-handler]: add centralized AppError hierarchy and global exception mapper

@@ -1,0 +1,1 @@
+Feature PR #43 [gdpr]: add right-to-be-forgotten data anonymizer and data retention policy

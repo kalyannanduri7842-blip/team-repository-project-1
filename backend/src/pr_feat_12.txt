@@ -1,0 +1,1 @@
+Feature PR #12 [deals]: implement deal pipeline repository and stage transition engine

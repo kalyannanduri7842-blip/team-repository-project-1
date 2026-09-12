@@ -1,0 +1,1 @@
+Feature PR #40 [integrations-zoom]: add Zoom meeting auto-creation API integration adapter

@@ -1,0 +1,24 @@
+{
+  "name": "nexora-crm-fullstack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NEXORA CRM full-stack application",
+  "scripts": {
+    "install:all": "npm install --prefix frontend && npm install --prefix backend",
+    "dev": "npm run dev --prefix frontend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "build": "npm run build --prefix frontend && npm run build --prefix backend",
+    "build:frontend": "npm run build --prefix frontend",
+    "build:backend": "npm run build --prefix backend",
+    "start": "npm run start --prefix backend",
+    "start:frontend": "npm run preview --prefix frontend",
+    "start:backend": "npm run start --prefix backend",
+    "test": "npm run test --prefix frontend && npm run test --prefix backend",
+    "test:frontend": "npm run test --prefix frontend",
+    "test:backend": "npm run test --prefix backend"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

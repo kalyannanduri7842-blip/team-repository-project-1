@@ -1,0 +1,1 @@
+Feature PR #19 [activities]: build activity logging subsystem for calls, meetings and notes

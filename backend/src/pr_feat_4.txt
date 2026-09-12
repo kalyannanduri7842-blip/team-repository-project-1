@@ -1,0 +1,1 @@
+Feature PR #4 [leads]: build lead entity schema, repository and CRUD endpoints
